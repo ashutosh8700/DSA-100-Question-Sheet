@@ -6,7 +6,7 @@ public class kth_smallest {
     { 
         //Your code here
         Arrays.sort(arr);
-        int n = arr.length;
+        // int n = arr.length;
         int result =  arr[k-1];
         
         return result;
