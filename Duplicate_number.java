@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class Duplicate_number {
       class Solution {
     public int findDuplicate(int[] nums) {
