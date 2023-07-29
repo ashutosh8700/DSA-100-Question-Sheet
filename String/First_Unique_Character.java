@@ -1,3 +1,4 @@
+package String;
 public class First_Unique_Character {
     class Solution {
         public int firstUniqChar(String s) {
